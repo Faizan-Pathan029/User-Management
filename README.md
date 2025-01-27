@@ -18,7 +18,7 @@
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/Faizan-Pathan/User-Management.git  
+   git clone https://github.com/Faizan-Pathan029/User-Management
    cd User-Management
    ```  
 
