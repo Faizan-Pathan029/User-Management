@@ -1,0 +1,17 @@
+{
+    "version": 2,
+    "name": "express-mongodb-app",
+    "builds": [
+      {
+        "src": "bin/www",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "bin/www"
+      }
+    ]
+  }
+  
